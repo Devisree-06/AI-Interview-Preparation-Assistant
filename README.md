@@ -39,7 +39,6 @@ AI_Interview_Preparation_Assistant/
 ├── requirements.txt
 ├── README.md
 ├── screenshots/
-└── report/
 
 ## 🚀 Installation
 
@@ -65,6 +64,7 @@ streamlit run app.py
 ![alt text](screenshots/evaluation3.png)
 ![alt text](<screenshots/final result.png>)
 ![alt text](<screenshots/downloaded report.png>)
+
 ## 📊 Workflow
 
 1. Enter your name.
